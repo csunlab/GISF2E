@@ -1,1 +1,3 @@
 # FeaturestoEdgelist
+
+The ArcGIS Features to Edgelist tool allows anyone who uses ArcGIS to export a feature (e.g., polylines) as a network; whether you are working with streets, pipelines, electric wires or just about any interconnected linear features. The tool creates two new GIS layers, one with all nodes and one with all edges, and the edgelist is in .csv format. An edgelist is a list of all links/edges in the network with start node ID, end node ID, and edge ID). The edgelist can then be imported by any program, such as R or python scripts (e.g., using igraph or NetworkX), Gephi, or NodeXL (Excel Add-On) to name a few.
