@@ -1,0 +1,12 @@
+README - GIS F2E – GIS Features to Edge List Tool (2D and 3D OSM version)
+
+Karduni, A., Kermanshah, A., & Derrible, S., 2016 “A protocol to convert spatial polyline data to network formats and applications to world urban road networks”, Scientific Data, 3:160046
+
+The article is available at: http://www.nature.com/articles/sdata201646
+
+version 1.10 - for all versions of pandas (note that this code was created when the latest pandas version was 0.18.1)
+
+
+What’s new
+
+- minor fix to work well with all versions of pandas.
