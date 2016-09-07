@@ -2,7 +2,7 @@
 '''
 GISF2E python - v1.00 - Note that the code was developed with pandas version 0.14.1 and it runs much faster for this version than with later versions.
 
-To cite, plese use: Karduni, A., Kermanshah, A., & Derrible, S., 2016 “A protocol to convert spatial polyline data to network formats and applications to world urban road networks”, Scientific Data, 3:160046
+To cite, please use: Karduni, A., Kermanshah, A., & Derrible, S., 2016 “A protocol to convert spatial polyline data to network formats and applications to world urban road networks”, Scientific Data, 3:160046
 The article is available at: http://www.nature.com/articles/sdata201646
 
 Main authors: Felipe Macena, Rodrigo Marinho
