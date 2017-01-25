@@ -1,0 +1,16 @@
+README - GIS F2E Python – GIS Features to Edge List Tool (2D and 3D OSM version)
+
+This python code was made specially to be used in python. See tutorial for specifications at: http://csun.uic.edu/codes/GISF2E/Python/GISF2E_python_tutorial.zip
+
+To cite, please use: Karduni, A., Kermanshah, A., & Derrible, S., 2016 “A protocol to convert spatial polyline data to network formats and applications to world urban road networks”, Scientific Data, 3:160046
+
+The article is available at: http://www.nature.com/articles/sdata201646
+
+version 1.20 - tested for pandas version 0.19.2
+version 1.10 - tested for pandas version 0.18.1
+version 1.00 - tested for pandas version 0.14.1
+
+
+What’s new in version 1.20
+
+- minor fix to work well with the new version of pandas 0.19.2
