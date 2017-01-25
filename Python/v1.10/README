@@ -6,9 +6,10 @@ To cite, please use: Karduni, A., Kermanshah, A., & Derrible, S., 2016 “A prot
 
 The article is available at: http://www.nature.com/articles/sdata201646
 
-version 1.10 - for all versions of pandas (note that this code was created when the latest pandas version was 0.18.1)
+version 1.10 - tested for pandas version 0.18.1
+version 1.00 - tested for pandas version 0.14.1
 
 
-What’s new
+What’s new in version 1.10
 
 - minor fix to work well with all versions of pandas.
