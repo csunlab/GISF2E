@@ -6,6 +6,4 @@ To cite, please use: Karduni, A., Kermanshah, A., & Derrible, S., 2016 “A prot
 
 The article is available at: http://www.nature.com/articles/sdata201646
 
-version 1.00 - for pandas 0.14.1
-
-- See updated version 1.10 that works with all pandas versions.
+version 1.00 - tested for pandas version 0.14.1
