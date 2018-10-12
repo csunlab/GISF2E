@@ -2,8 +2,6 @@ GISF2E ArcGIS - v2.00
 
 To download the tool as a toolbox, please visit http://csun.uic.edu/codes/GISF2E.html.
 
-Version 2.00 uses arcpy and the code can be found at https://github.com/csunlab/GISF2E/blob/master/ArcGis/v2.00/GISF2E_ArcGIS_v2.00.py
-
 To cite, plese use: Karduni, A., Kermanshah, A., & Derrible, S., 2016 “A protocol to convert spatial polyline data to network formats and applications to world urban road networks”, Scientific Data, 3:160046
 The article is available at: http://www.nature.com/articles/sdata201646
 
